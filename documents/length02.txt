@@ -1,0 +1,42 @@
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+ 15 propane.pdb
+ 15 total
+  20 cubane.pdb
+  20 total
+ 12 ethane.pdb
+ 12 total
+  9 methane.pdb
+  9 total
+  30 octane.pdb
+  30 total
+  21 pentane.pdb
+  21 total
+ 15 propane.pdb
+ 15 total
+20 cubane.pdb
+12 ethane.pdb
+9 methane.pdb
+30 octane.pdb
+21 pentane.pdb
+15 propane.pdb
